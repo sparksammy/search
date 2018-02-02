@@ -7,7 +7,7 @@
     <?php headerElem();?>
     <div class="container">
       <center>
-        <h1>Web Search</h1>
+        <h1>Gazilion</h1>
         <form class="searchForm" action="search.php" method="GET">
           <input type="text" autocomplete="off" name="q" id="query"/>
           <div>
@@ -16,8 +16,6 @@
             </button>
           </div>
           <p>Free, Open Source & Anonymous</p>
-          <p><a href="https://github.com/subins2000/search">GitHub (Source Code)</a></p>
-          <p><a href="about">About</a></p>
         </form>
       </center>
     </div>
